@@ -1,4 +1,4 @@
-- ### 💫Hi, I'm Isabel!
+### 💫Hi, I'm Isabel!
 🖋Digital health & biosciences professional with a Bachelor’s degree in Biosciences and Graduate Certificate in Digital Health
 
 🧪Expertise in healthcare systems design, data analysis, and workflow optimization.
