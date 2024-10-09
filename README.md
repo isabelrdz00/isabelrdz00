@@ -14,9 +14,16 @@
 🧃Thrive in dynamic, adaptive, and innovative collaborative environments, eager to continue learning!
 
 <h2>💻 Data Analyst Projects:</h2>
-- [Coffee Sales Dashboard Excel](https://github.com/isabelrdz00/CoffeeSales_Excel)
-- [Bike Sales Excel](https://github.com/isabelrdz00/BikeSales_Excel)
 
+  - [British Airways Dasboard **Tableau**](https://github.com/isabelrdz00/BritishAirway_Tableau)
+  - [King County Sales Dashboard **Tableau**](https://github.com/isabelrdz00/KingCountySales_Tableau)
+  - [Actual vs Target **Tableau**](https://github.com/isabelrdz00/ActualvsTarget_Tableau)
+  - [Coffee Sales Dashboard **Excel**](https://github.com/isabelrdz00/CoffeeSales_Excel)
+  - [Bike Sales Dashboard **Excel**](https://github.com/isabelrdz00/BikeSales_Excel)
+  - [Plant Co Dashboard **PowerBI**](https://github.com/isabelrdz00/PlantCo_PowerBI)
+  - [Data Science Dashboard **PowerBI**](https://github.com/isabelrdz00/DataScience_PowerBI)
+  - [Bike Store **SQL**](https://github.com/isabelrdz00/BikeStore_SQL)
+    
 
 
 <!---
