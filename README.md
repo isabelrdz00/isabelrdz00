@@ -14,7 +14,8 @@
 🧃Thrive in dynamic, adaptive, and innovative collaborative environments, eager to continue learning!
 
 <h2>💻 Data Analyst Projects:</h2>
-[Coffee Sales Dashboard Excel](https://github.com/isabelrdz00/CoffeeSales_Excel)
+- [Coffee Sales Dashboard Excel](https://github.com/isabelrdz00/CoffeeSales_Excel)
+- [Bike Sales Excel](https://github.com/isabelrdz00/BikeSales_Excel)
 
 
 
