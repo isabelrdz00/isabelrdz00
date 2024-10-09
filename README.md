@@ -13,6 +13,11 @@
 
 🧃Thrive in dynamic, adaptive, and innovative collaborative environments, eager to continue learning!
 
+<h2>💻 Data Analyst Projects:</h2>
+[Coffee Sales Dashboard Excel](https://github.com/isabelrdz00/CoffeeSales_Excel)
+
+
+
 <!---
 isabelrdz00/isabelrdz00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
