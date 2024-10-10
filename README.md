@@ -24,7 +24,8 @@
   - [Data Science Dashboard **PowerBI**](https://github.com/isabelrdz00/DataScience_PowerBI)
   - [Bike Store **SQL**](https://github.com/isabelrdz00/BikeStore_SQL)
   - [Hotel Revenue **SQL**](https://github.com/isabelrdz00/HotelRevenue_SQL/blob/main/README.md)
-  - [Health Clinic **Business Analysis Case**](https://github.com/isabelrdz00/Business-Analysis-Case/blob/main/README.md) 
+  - [Health Clinic **Business Analysis Case**](https://github.com/isabelrdz00/Business-Analysis-Case/blob/main/README.md)
+  - [Health Clinic **Agile Frameweork Case**](https://github.com/isabelrdz00/Health-Clinic_-Agile-Framework-Case/blob/main/README.md)
     
 
 
