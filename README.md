@@ -13,7 +13,7 @@
 
 🧃Thrive in dynamic, adaptive, and innovative collaborative environments, eager to continue learning!
 
-💌 Bilingual:** Spanish (native) and English (fluent), currently working on improving my French language skills.
+💌 Bilingual: *Spanish (native)* and *English (fluent)*, currently working on improving my *French* language skills.
 
 
 <h2>💻 Data Analyst & Systems Analysis Projects:</h2>
