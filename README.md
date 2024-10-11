@@ -13,7 +13,7 @@
 
 🧃Thrive in dynamic, adaptive, and innovative collaborative environments, eager to continue learning!
 
-<h2>💻 Data Analyst Projects:</h2>
+<h2>💻 Data Analyst & Systems Analysis Projects:</h2>
 
   - [British Airways Dasboard **Tableau**](https://github.com/isabelrdz00/BritishAirway_Tableau)
   - [King County Sales Dashboard **Tableau**](https://github.com/isabelrdz00/KingCountySales_Tableau)
