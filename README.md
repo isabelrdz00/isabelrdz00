@@ -24,6 +24,7 @@
   - [Coffee Sales Dashboard **Excel**](https://github.com/isabelrdz00/CoffeeSales_Excel)
   - [Bike Sales Dashboard **Excel**](https://github.com/isabelrdz00/BikeSales_Excel)
   - [Business Data Analysis **Excel**](https://github.com/isabelrdz00/Data-Analysis_-Excel/blob/main/README.md)
+  - [**Power Pivot and Power Query Excel**](https://github.com/isabelrdz00/Power-Pivot-and-Power-Query-Excel/blob/main/README.md)
   - [Plant Co Dashboard **PowerBI**](https://github.com/isabelrdz00/PlantCo_PowerBI)
   - [Data Science Dashboard **PowerBI**](https://github.com/isabelrdz00/DataScience_PowerBI)
   - [Bike Store **SQL**](https://github.com/isabelrdz00/BikeStore_SQL)
