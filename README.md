@@ -1,21 +1,17 @@
 ### 💫Hi, I'm Isabel!
-✏️  Digital health & biosciences professional with a Bachelor’s degree in Biosciences and Graduate Certificate in Digital Health
+✏️ Business Analyst with expertise in data analysis, requirement gathering, and process improvement, especially within the healthcare industry.
 
-🧪Expertise in healthcare systems design, data analysis, and workflow optimization.
+🧪 Skilled in healthcare systems design, workflow optimization, and leveraging KPIs to measure project success.
 
-✨Passionate about leveraging technology to improve patient care and healthcare delivery.
+✨ Passionate about using technology to deliver scalable, data-driven solutions that enhance business performance across industries.
 
-💞Self-starter with a commitment to continuous learning and self-study.
+💞 Self-starter with a strong commitment to continuous learning, as showcased in my portfolio of self-taught projects.
 
-🌷Skilled in business and systems analysis, data optimization, and healthcare workflow improvement.
+🌷 Proficient in Excel, Power BI, Salesforce, and Azure DevOps, with strengths in collaboration, execution, and teamwork.
 
-💭Strong problem-solving, time management, and communication skills.
+💭 Thrive in fast-paced, dynamic environments where adaptability and innovation are key to driving impactful results.
 
-🧃Thrive in dynamic, adaptive, and innovative collaborative environments, eager to continue learning!
-
-💌 Bilingual: *Spanish (native)* and *English (fluent)*, currently working on improving my *French* language skills.
-
-
+💌 Bilingual: Spanish (native) and English (fluent); currently improving my French language skills.
 <h2>💻 Data Analysis, Business Cases & Project Management:</h2>
 
   - [British Airways Dasboard **Tableau**](https://github.com/isabelrdz00/BritishAirway_Tableau)
