@@ -1,17 +1,18 @@
 ### 💫Hi, I'm Isabel!
-✏️ Business Analyst with expertise in data analysis, requirement gathering, and process improvement, especially within the healthcare industry.
+✏️ Detail-oriented Business Analyst with expertise in data analysis, requirement gathering, and process improvement, particularly within the healthcare industry.
 
-🧪 Skilled in healthcare systems design, workflow optimization, and leveraging KPIs to measure project success.
+✨ Proficient in tools such as Excel, Power BI, Salesforce, Tableau, SQL, and Azure DevOps, leveraging KPIs to measure success and ensure project goals are met.
 
-✨ Passionate about using technology to deliver scalable, data-driven solutions that enhance business performance across industries.
+💞 Self-starter with a strong commitment to continuous learning, as showcased in my portfolio of self-taught projects. Ready to contribute to innovative solutions in fast-paced, standards-driven environments, with a strong willingness to learn and grow.
 
-💞 Self-starter with a strong commitment to continuous learning, as showcased in my portfolio of self-taught projects.
+🌷 Designed comprehensive Data Governance Frameworks and Implementation Plans to ensure compliance, data quality, and operational efficiency.
 
-🌷 Proficient in Excel, Power BI, Salesforce, and Azure DevOps, with strengths in collaboration, execution, and teamwork.
+💭 Recognized for strong communication and problem-solving skills, thriving in fast-paced environments where adaptability and innovation are key. Experienced in collaborating with cross-functional teams to define business needs, streamline processes, and implement scalable solutions that drive growth.
 
-💭 Thrive in fast-paced, dynamic environments where adaptability and innovation are key to driving impactful results.
+🧪 While rooted in healthcare, I am eager to apply my skills to any industry, delivering impactful solutions that align with organizational goals.
 
 💌 Bilingual: Spanish (native) and English (fluent); currently improving my French language skills.
+
 <h2>💻 Data Analysis, Business Cases & Project Management:</h2>
 
   - [British Airways Dasboard **Tableau**](https://github.com/isabelrdz00/BritishAirway_Tableau)
