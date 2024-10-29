@@ -44,6 +44,7 @@
   - [Leadership and Management Digital Health](https://github.com/isabelrdz00/Leadership-Management-Digital-Health)
   - [Workflow Human Factors Patient](https://github.com/isabelrdz00/Workflow-Human-Factors-Patient/blob/main/README.md)
   - [Data Governance Framework & Plan](https://github.com/isabelrdz00/Data-Governance/blob/main/README.md)
+  - [Health Ethics and Privacy](https://github.com/isabelrdz00/Health-Ethics-Privacy/blob/main/README.md)
     
     
 
