@@ -15,22 +15,34 @@
 
 <h2>💻 Data Analysis, Business Cases & Project Management:</h2>
 
+**Tableau**
   - [British Airways Dasboard **Tableau**](https://github.com/isabelrdz00/BritishAirway_Tableau)
   - [King County Sales Dashboard **Tableau**](https://github.com/isabelrdz00/KingCountySales_Tableau)
   - [Actual vs Target **Tableau**](https://github.com/isabelrdz00/ActualvsTarget_Tableau)
+
+  **Excel**
   - [Coffee Sales Dashboard **Excel**](https://github.com/isabelrdz00/CoffeeSales_Excel)
   - [Bike Sales Dashboard **Excel**](https://github.com/isabelrdz00/BikeSales_Excel)
   - [Business Data Analysis **Excel**](https://github.com/isabelrdz00/Data-Analysis_-Excel/blob/main/README.md)
   - [**Power Pivot and Power Query Excel**](https://github.com/isabelrdz00/Power-Pivot-and-Power-Query-Excel/blob/main/README.md)
+
+  **PowerBI**
   - [Plant Co Dashboard **PowerBI**](https://github.com/isabelrdz00/PlantCo_PowerBI)
   - [Data Science Dashboard **PowerBI**](https://github.com/isabelrdz00/DataScience_PowerBI)
+
+  **SQL**
   - [Bike Store **SQL**](https://github.com/isabelrdz00/BikeStore_SQL)
   - [Hotel Revenue **SQL**](https://github.com/isabelrdz00/HotelRevenue_SQL/blob/main/README.md)
+    
+  **Project Management**
   - [**Jira** Project](https://github.com/isabelrdz00/Jira-Project)
   - [Health Clinic Business Analysis Case **Waterfall**](https://github.com/isabelrdz00/Business-Analysis-Case/blob/main/README.md)
   - [Health Clinic **Agile Frameweork** Case](https://github.com/isabelrdz00/Health-Clinic_-Agile-Framework-Case/blob/main/README.md)
   - [**Project Management** Projects](https://github.com/isabelrdz00/Project-Management_Projects/blob/main/README.md)
+
+  **Digital Health**
   - [Leadership and Management Digital Health](https://github.com/isabelrdz00/Leadership-Management-Digital-Health)
+  - [Workflow Human Factors Patient](https://github.com/isabelrdz00/Workflow-Human-Factors-Patient/blob/main/README.md)
   - [Data Governance Framework & Plan](https://github.com/isabelrdz00/Data-Governance/blob/main/README.md)
     
     
