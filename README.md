@@ -1,5 +1,5 @@
 ### 💫Hi, I'm Isabel!
-✏️ Detail-oriented Business Analyst with expertise in data analysis, requirement gathering, and process improvement, particularly within the healthcare industry.
+✏️ Detail-oriented professional with a strong foundation in Biosciences, Business, and Systems Analysis, specializing in data analysis, requirements gathering, and process improvement, particularly within the healthcare industry.
 
 ✨ Proficient in tools such as Excel, Power BI, Salesforce, Tableau, SQL, and Azure DevOps, leveraging KPIs to measure success and ensure project goals are met.
 
