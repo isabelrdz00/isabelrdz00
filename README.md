@@ -1,15 +1,15 @@
 ### 💫Hi, I'm Isabel!
-✏️ Detail-oriented professional with a strong foundation in Biosciences, Business, and Systems Analysis, specializing in data analysis, requirements gathering, and process improvement, particularly within the healthcare industry.
+✏️ I'm a detail-oriented Business Analyst with a background in Biosciences and Systems Analysis, experienced in driving process improvements and supporting system optimization across corporate IT environments. My work includes requirements gathering, stakeholder engagement, Salesforce administration, and developing documentation solutions using tools like Confluence.
 
-✨ Proficient in tools such as Excel, Power BI, Salesforce, Tableau, SQL, and Azure DevOps, leveraging KPIs to measure success and ensure project goals are met.
+✨ Proficient in tools such as Excel, Power BI, Salesforce, Tableau, SQL, Java, and Python.
 
-💞 Self-starter with a strong commitment to continuous learning, as showcased in my portfolio of self-taught projects. Ready to contribute to innovative solutions in fast-paced, standards-driven environments, with a strong willingness to learn and grow.
+💞 I'm a self-starter with a strong commitment to continuous learning, as demonstrated by my portfolio of self-taught projects. I'm ready to contribute to innovative solutions in fast-paced, standards-driven environments, with a strong willingness to learn and grow.
 
-🌷 Designed comprehensive Data Governance Frameworks and Implementation Plans to ensure compliance, data quality, and operational efficiency.
+🌷 I've led initiatives to identify legacy inefficiencies, modernize workflows, and build business cases for strategic improvements. I’m particularly effective at bridging technical and non-technical teams, ensuring clear communication, alignment, and actionable outcomes.
 
-💭 Recognized for strong communication and problem-solving skills, thriving in fast-paced environments where adaptability and innovation are key. Experienced in collaborating with cross-functional teams to define business needs, streamline processes, and implement scalable solutions that drive growth.
+💭 Known for my eye for detail, collaboration, and problem-solving, I thrive in fast-paced settings where adaptability and innovation are key. I have experience working with cross-functional teams to define business needs, streamline processes, and implement scalable solutions that drive growth. I'm also recognized for strong communication skills and translating complex ideas into clear business insights.
 
-🧪 While rooted in healthcare, I am eager to apply my skills to any industry, delivering impactful solutions that align with organizational goals.
+🧪 While my expertise is rooted in healthcare, I’m eager to apply my skills across industries—delivering impactful, data-driven solutions that align with organizational goals.
 
 💌 Bilingual: Spanish (native) and English (fluent); currently improving my French language skills.
 
