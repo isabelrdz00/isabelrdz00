@@ -1,7 +1,7 @@
 ### 💫Hi, I'm Isabel!
 ✏️ I'm a detail-oriented Business Analyst with a background in Biosciences and Systems Analysis, experienced in driving process improvements and supporting system optimization across corporate IT environments. My work includes requirements gathering, stakeholder engagement, Salesforce administration, and developing documentation solutions using tools like Confluence.
 
-✨ Proficient in tools such as Excel, Power BI, Salesforce, Tableau, SQL, Java, and Python.
+✨ Experience using tools such as Excel, Power BI, Salesforce, Tableau, SQL, Java, and Python.
 
 💞 I'm a self-starter with a strong commitment to continuous learning, as demonstrated by my portfolio of self-taught projects. I'm ready to contribute to innovative solutions in fast-paced, standards-driven environments, with a strong willingness to learn and grow.
 
