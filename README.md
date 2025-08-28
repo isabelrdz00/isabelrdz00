@@ -1,5 +1,5 @@
 ### 💫Hi, I'm Isabel!
-✏️“I’m a detail-oriented Administrative and Executive Support professional with a background in systems analysis and biosciences. I bring experience in coordinating stakeholders, managing documentation, and streamlining processes using tools like Confluence and Salesforce to support team efficiency and organizational success. 
+✏️I’m a detail-oriented Administrative and Executive Support professional with a background in systems analysis and biosciences. I bring experience in coordinating stakeholders, managing documentation, and streamlining processes using tools like Confluence and Salesforce to support team efficiency and organizational success. 
 
 ✨ Experience using tools such as Excel, Power BI, Salesforce, Tableau, SQL, Java, and Python.
 
