@@ -1,17 +1,17 @@
 ### 💫Hi, I'm Isabel!
-✏️I’m a detail-oriented Administrative and Executive Support professional with a background in systems analysis and biosciences. I bring experience in coordinating stakeholders, managing documentation, and streamlining processes using tools like Confluence and Salesforce to support team efficiency and organizational success. 
+✏️I am a Business Analyst, Science Research & Communicator, and Administrative Support professional. My background includes coordinating stakeholders, managing documentation, and streamlining processes using tools like Salesforce and Confluence to improve efficiency and alignment. I also have experience in brand partnerships, scripting, recording, editing, and designing content in Canva, including authoring my own eBook. Skilled at translating complex technical information into simple, clear communication accessible to all audiences.
 
-✨ Experience using tools such as Excel, Power BI, Salesforce, Tableau, SQL, Java, and Python.
+✨ Experienced with tools such as Excel, Power BI, Salesforce, Tableau, SQL, Java, Canva, Confluence and Python.
 
-💞 I'm a self-starter with a strong commitment to continuous learning, as demonstrated by my portfolio of self-taught projects. I'm ready to contribute to innovative solutions in fast-paced, standards-driven environments, with a strong willingness to learn and grow.
+🧪 I produce educational, science-based content on health, beauty, and women’s wellness for TikTok and Instagram (250K+ followers).
 
-🌷 I've led initiatives to identify legacy inefficiencies, modernize workflows, and build business cases for strategic improvements. I’m particularly effective at bridging technical and non-technical teams, ensuring clear communication, alignment, and actionable outcomes.
+💞 Self-starter with a strong commitment to continuous learning, demonstrated by a portfolio of self-taught projects. Ready to contribute to innovative solutions in fast-paced, standards-driven environments, with a strong willingness to learn and grow.
 
-💭 Known for my eye for detail, collaboration, and problem-solving, I thrive in fast-paced settings where adaptability and innovation are key. I have experience working with cross-functional teams to define business needs, streamline processes, and implement scalable solutions that drive growth. I'm also recognized for strong communication skills and translating complex ideas into clear business insights.
+🌷 Led initiatives to identify inefficiencies, modernize workflows, and build business cases for strategic improvements. Effective at bridging technical and non-technical teams, ensuring clear communication, alignment, and collaboration.
 
-🧪 While my expertise is rooted in healthcare, I’m eager to apply my skills across industries—delivering impactful, data-driven solutions that align with organizational goals.
+💭 Known for attention to detail, problem-solving, and teamwork. Experienced in working with cross-functional teams to define business needs, streamline processes, and implement scalable solutions that drive growth. Recognized for strong communication skills and the ability to simplify complex ideas into clear business insights.
 
-💌 Bilingual: Spanish (native) and English (fluent); currently improving my French language skills.
+💌 Bilingual: Spanish (native) and English (fluent); currently improving French.
 
 <h2>💻 Data Analysis, Business Cases & Project Management:</h2>
 
