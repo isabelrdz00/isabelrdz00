@@ -16,6 +16,8 @@
 💌 Bilingual: Spanish (native) and English (fluent); currently improving French.
 <h2>💻 Data Analysis, Business Cases & Project Management:</h2>
 
+**Certifications**
+
 **Tableau**
   - [British Airways Dasboard **Tableau**](https://github.com/isabelrdz00/BritishAirway_Tableau)
   - [King County Sales Dashboard **Tableau**](https://github.com/isabelrdz00/KingCountySales_Tableau)
