@@ -1,5 +1,5 @@
 ### 💫Hi, I'm Isabel!
-✏️I am an Analyst and Administrative Support professional with experience in workflow analysis, documentation management, and process coordination. I focus on identifying inefficiencies, improving clarity in systems and processes, and supporting teams through accurate records, structured documentation, and clear communication. My work bridges technical and non-technical stakeholders, ensuring information is accessible, actionable, and easy to understand.
+✏️ I am an Analyst and Administrative Support professional with experience in workflow analysis, documentation management, and process coordination. I focus on identifying inefficiencies, improving clarity in systems and processes, and supporting teams through accurate records, structured documentation, and clear communication. My work bridges technical and non-technical stakeholders, ensuring information is accessible, actionable, and easy to understand.
 
 🏹 I’m highly autodidactic and motivated by learning new tools, improving systems, and creating clarity in fast-paced environments.
 
