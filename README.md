@@ -17,6 +17,7 @@
 <h2>💻 Data Analysis, Business Cases & Project Management:</h2>
 
 **Certifications**
+-[View all my DataCamp + technical certificates](https://github.com/isabelrdz00/Certifications)
 
 **Tableau**
   - [British Airways Dasboard **Tableau**](https://github.com/isabelrdz00/BritishAirway_Tableau)
