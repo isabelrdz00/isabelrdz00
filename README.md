@@ -1,18 +1,19 @@
 ### 💫Hi, I'm Isabel!
-✏️I am a Business Analyst, Science Research & Communicator, and Administrative Support professional. My background includes coordinating stakeholders, managing documentation, and streamlining processes using tools like Salesforce and Confluence to improve efficiency and alignment. I also have experience in brand partnerships, scripting, recording, editing, and designing content in Canva, including authoring my own eBook. Skilled at translating complex technical information into simple, clear communication accessible to all audiences.
+✏️I am an Analyst and Administrative Support professional with experience in workflow analysis, documentation management, and process coordination. I focus on identifying inefficiencies, improving clarity in systems and processes, and supporting teams through accurate records, structured documentation, and clear communication. My work bridges technical and non-technical stakeholders, ensuring information is accessible, actionable, and easy to understand.
 
-✨ Experienced with tools such as Excel, Power BI, Salesforce, Tableau, SQL, Java, Canva, Confluence and Python.
+🏹 I’m highly autodidactic and motivated by learning new tools, improving systems, and creating clarity in fast-paced environments.
 
-🧪 I produce educational, science-based content on health, beauty, and women’s wellness for TikTok and Instagram (250K+ followers).
+🧪 I also create science-based educational content for an audience of 300K+ and authored the published eBook Science Meets Beauty, where I translate technical concepts into accessible, highly visual explanations.
 
-💞 Self-starter with a strong commitment to continuous learning, demonstrated by a portfolio of self-taught projects. Ready to contribute to innovative solutions in fast-paced, standards-driven environments, with a strong willingness to learn and grow.
+💞 Self-starter with a strong commitment to continuous learning, demonstrated by a portfolio of self-taught technical and analytical projects.
 
-🌷 Led initiatives to identify inefficiencies, modernize workflows, and build business cases for strategic improvements. Effective at bridging technical and non-technical teams, ensuring clear communication, alignment, and collaboration.
+🌷 I have led initiatives to identify inefficiencies, modernize workflows, and create structured improvements—helping teams stay aligned through clear documentation and communication.
 
-💭 Known for attention to detail, problem-solving, and teamwork. Experienced in working with cross-functional teams to define business needs, streamline processes, and implement scalable solutions that drive growth. Recognized for strong communication skills and the ability to simplify complex ideas into clear business insights.
+💭 Known for attention to detail, problem-solving, and teamwork. Experienced in supporting cross-functional teams, defining business needs, and transforming complex information into clear insights that support better decision-making.
+
+✨ Experienced with tools such as Excel, Power BI, Salesforce, Tableau, SQL, Java, Canva, Confluence, and Python (introductory).
 
 💌 Bilingual: Spanish (native) and English (fluent); currently improving French.
-
 <h2>💻 Data Analysis, Business Cases & Project Management:</h2>
 
 **Tableau**
