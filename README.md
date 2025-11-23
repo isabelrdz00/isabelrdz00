@@ -34,6 +34,7 @@
   **PowerBI**
   - [Plant Co Dashboard **PowerBI**](https://github.com/isabelrdz00/PlantCo_PowerBI)
   - [Data Science Dashboard **PowerBI**](https://github.com/isabelrdz00/DataScience_PowerBI)
+  - [Customer Churn Case Srudy **PowerBI**](https://github.com/isabelrdz00/Customer-Churn-Case-Study) 
 
   **SQL**
   - [Bike Store **SQL**](https://github.com/isabelrdz00/BikeStore_SQL)
