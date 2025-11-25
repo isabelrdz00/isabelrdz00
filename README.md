@@ -1,7 +1,7 @@
-### 💫Hi, I'm Isabel!
-✏️ I am an Analyst and Administrative Support professional with experience in workflow analysis, documentation management, and process coordination. I focus on identifying inefficiencies, improving clarity in systems and processes, and supporting teams through accurate records, structured documentation, and clear communication. My work bridges technical and non-technical stakeholders, ensuring information is accessible, actionable, and easy to understand.
+### 💫 Hi, I'm Isabel!
+✏️ I am an Analyst and Administrative Support professional with a strong foundation in workflow analysis, data analytics, documentation management, and process coordination. I focus on identifying inefficiencies, improving clarity in systems and processes, and supporting teams through accurate records, streamlined reporting models, and clear communication. In my recent roles, I have supported Power BI automation projects, developed structured client-facing outputs, maintained organized information systems, and monitored data quality to ensure high reporting standards. My work bridges technical and non-technical stakeholders, making information accessible, actionable, and easy to understand while optimizing workflows and supporting evidence-based decision-making.
 
-🏹 I’m highly autodidactic and motivated by learning new tools, improving systems, and creating clarity in fast-paced environments.
+🌟 I’m highly autodidactic and motivated by learning new tools, improving systems, and creating clarity in fast-paced environments.
 
 🧪 I also create science-based educational content for an audience of 300K+ and authored the published eBook Science Meets Beauty, where I translate technical concepts into accessible, highly visual explanations.
 
