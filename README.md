@@ -1,5 +1,5 @@
 ### 💫 Hi, I'm Isabel!
-✏️ I am an Analyst and Administrative Support professional with a strong foundation in workflow analysis, data analytics, documentation management, and process coordination. I focus on identifying inefficiencies, improving clarity in systems and processes, and supporting teams through accurate records, streamlined reporting models, and clear communication. In my recent roles, I have supported Power BI automation projects, developed structured client-facing outputs, maintained organized information systems, and monitored data quality to ensure high reporting standards. My work bridges technical and non-technical stakeholders, making information accessible, actionable, and easy to understand while optimizing workflows and supporting evidence-based decision-making.
+✏️ I am a Business/Data Analyst and Administrative Support professional with a strong foundation in workflow analysis, data analytics, documentation management, and process coordination. I focus on identifying inefficiencies, improving clarity in systems and processes, and supporting teams through accurate records, streamlined reporting models, and clear communication. In my recent roles, I have supported Power BI automation projects, developed structured client-facing outputs, maintained organized information systems, and monitored data quality to ensure high reporting standards. My work bridges technical and non-technical stakeholders, making information accessible, actionable, and easy to understand while optimizing workflows and supporting evidence-based decision-making.
 
 🌟 I’m highly autodidactic and motivated by learning new tools, improving systems, and creating clarity in fast-paced environments.
 
@@ -38,6 +38,7 @@
   - [HR Analytics Dashboard Case Study](https://github.com/isabelrdz00/HR-Analytics-Case-Study)
 
   **SQL**
+  - [International Students **SQL**](https://github.com/isabelrdz00/SQL-DataCamp-Project/blob/main/README.md) 
   - [Bike Store **SQL**](https://github.com/isabelrdz00/BikeStore_SQL)
   - [Hotel Revenue **SQL**](https://github.com/isabelrdz00/HotelRevenue_SQL/blob/main/README.md)
     
