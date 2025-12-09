@@ -38,7 +38,8 @@
   - [HR Analytics Dashboard Case Study](https://github.com/isabelrdz00/HR-Analytics-Case-Study)
 
   **SQL**
-  - [International Students **SQL**](https://github.com/isabelrdz00/SQL-DataCamp-Project/blob/main/README.md) 
+  - [International Students **SQL**](https://github.com/isabelrdz00/SQL-DataCamp-Project/blob/main/README.md)
+  - [GoodThought NGO **SQL** Analytics Project](https://github.com/isabelrdz00/SQL-DataCamp-Project-2)
   - [Bike Store **SQL**](https://github.com/isabelrdz00/BikeStore_SQL)
   - [Hotel Revenue **SQL**](https://github.com/isabelrdz00/HotelRevenue_SQL/blob/main/README.md)
     
