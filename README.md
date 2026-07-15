@@ -3,7 +3,7 @@
 
 🌟 I’m highly autodidactic and motivated by learning new tools, improving systems, and creating clarity in fast-paced environments.
 
-🧪 I also create science-based educational content for an audience of 600K+ and authored the published eBook Science Meets Beauty, where I translate technical concepts into accessible, highly visual explanations.
+🧪 I also create science-based educational content for an audience of 780K+ and authored the published eBook Science Meets Beauty, where I translate technical concepts into accessible, highly visual explanations.
 
 💞 Self-starter with a strong commitment to continuous learning, demonstrated by a portfolio of self-taught technical and analytical projects.
 
